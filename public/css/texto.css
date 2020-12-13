@@ -1,0 +1,25 @@
+@font-face{
+    font-family:titulo;
+    src:url(../Oliver.ttf)
+}
+@font-face{
+    font-family:subt;
+    src:url(../Cherolina.ttf)
+}
+h1{
+    font-family: titulo;
+    text-align: center;
+    font-size: 400%;
+}
+h2{
+    font-family:subt;
+    text-align: center;
+    font-size: 400%;
+}
+.c{
+    display: block;
+    margin:auto; 
+}
+main{
+    padding: 30px;
+}
